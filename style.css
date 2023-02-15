@@ -15,4 +15,7 @@ ul.list {
     kist-style-type: square;
     margin-left:10px;
 }
+body{
+    background-color: bisque;
+}
 }
