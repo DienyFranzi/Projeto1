@@ -13,6 +13,6 @@ div.container > h1 {
 text-align: center;
 ul.list {
     kist-style-type: square;
-    margin-left:
+    margin-left:10px;
 }
 }
