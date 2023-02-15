@@ -1,0 +1,15 @@
+*{
+    padding: 10px;
+    margin: 10px;
+}
+div.container{
+    width: 88%;
+    min-height: 400px;
+    background-color: blueviolet;
+    color:yellow;
+    margin: 10px auto;
+}
+div.container > h1 {
+text-align: center;
+
+}
